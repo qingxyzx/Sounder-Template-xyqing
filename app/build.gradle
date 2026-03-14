@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.qing.sounder.xy"
+        applicationId "com.fansi.sounder.dht"
         minSdk 23
         targetSdk 36
         versionCode 1
